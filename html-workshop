@@ -1,0 +1,27 @@
+<html>
+<header>
+
+</header>
+<main>
+
+<body>
+  <h1>Curtis Gates</h1>
+  <button>click here</button>
+  <p>Curtis is an instructor</p>
+  <h2>Technologies</h2>
+  <ul>
+    <li>Node</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+   </ul>
+    <article>
+      <h3>HTML / CSS Workshiop</h3>
+      <section>Learn about HTML</section>
+   </main>
+   <footer>
+    Created by Curt
+    </footer>
+  </body>
+ 
+ </html>
